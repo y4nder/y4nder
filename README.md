@@ -16,9 +16,9 @@
              alt="Leander's GitHub Stats"/>
       </p>
       <p align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=y4nder&theme=tokyonight" width="250" 
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=y4nder&theme=tokyonight" width="240" 
              alt="Leander's GitHub Stats"/>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=y4nder&theme=tokyonight" width="250" 
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=y4nder&theme=tokyonight" width="240" 
              alt="Leander's GitHub Stats"/>
       </p>
     </td>
