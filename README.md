@@ -12,7 +12,7 @@
         <strong>software development</strong> and <strong>building awesome applications</strong>, and libraries.
       </p>
       <p align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y4nder&theme=tokyonight" width="500"
+        <img src="https://github-readme-stats.vercel.app/api?username=y4nder&show_icons=true&theme=tokyonight&show=prs_merged,prs_merged_percentage" width="500"
              alt="Leander's GitHub Stats"/>
       </p>
       <p align="center">
