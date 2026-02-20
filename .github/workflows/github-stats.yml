@@ -24,8 +24,7 @@ jobs:
           card: stats
           theme: dark
           output: stats.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       # Generate Languages Card
       - name: Generate Languages Card
@@ -35,8 +34,7 @@ jobs:
           card: languages
           theme: gruvbox
           output: languages.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
       # Commit updated SVG files
       - name: Commit and Push
