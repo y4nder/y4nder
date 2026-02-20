@@ -22,7 +22,7 @@ jobs:
         with:
           username: y4nder
           card: stats
-          theme: dark
+          theme: gruvbox
           output: stats.svg
           token: ${{ secrets.GH_TOKEN }}
 
@@ -34,6 +34,16 @@ jobs:
           card: languages
           theme: gruvbox
           output: languages.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      # Generate Contributions Card
+      - name: Generate Contributions Card
+        uses: y4nder/ygithub-stats-action@v1
+        with:
+          username: y4nder
+          card: contributions
+          theme: gruvbox
+          output: contributions.svg
           token: ${{ secrets.GH_TOKEN }}
 
       # Commit updated SVG files
