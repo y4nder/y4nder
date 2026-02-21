@@ -52,7 +52,7 @@
     <text x="20" y="35" class="mono header">- Contributions ------------------------------------</text>
 
     <text x="25" y="60" class="mono label">TOTAL</text>
-    <text x="90" y="60" class="mono total"><tspan class="typewriter-char" style="animation-delay: 0s">1</tspan><tspan class="typewriter-char" style="animation-delay: 0.08s">0</tspan><tspan class="typewriter-char" style="animation-delay: 0.16s">8</tspan><tspan class="typewriter-char" style="animation-delay: 0.24s">2</tspan></text>
+    <text x="90" y="60" class="mono total"><tspan class="typewriter-char" style="animation-delay: 0s">1</tspan><tspan class="typewriter-char" style="animation-delay: 0.08s">0</tspan><tspan class="typewriter-char" style="animation-delay: 0.16s">8</tspan><tspan class="typewriter-char" style="animation-delay: 0.24s">4</tspan></text>
 
     <text x="195" y="60" class="mono label">
         contributions this year
@@ -63,7 +63,7 @@
 
     <!-- Left Column Stats -->
     <text x="25" y="110" class="mono label">COMMITS</text>
-        <text x="95" y="110" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0s">4</tspan><tspan class="typewriter-char" style="animation-delay: 0.08s">1</tspan><tspan class="typewriter-char" style="animation-delay: 0.16s">0</tspan></text>
+        <text x="95" y="110" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0s">4</tspan><tspan class="typewriter-char" style="animation-delay: 0.08s">1</tspan><tspan class="typewriter-char" style="animation-delay: 0.16s">2</tspan></text>
 
         <text x="140" y="109" class="mono bar-text" xml:space="preserve"><tspan class="bar-fill" fill="#b8bb26" style="animation-delay: 0s">⣿⣿⣿⣿</tspan><tspan class="bar-empty" fill="#7c6f64" opacity="0.5">⣀⣀⣀⣀⣀</tspan></text>
     <text x="25" y="130" class="mono label">PRS</text>
