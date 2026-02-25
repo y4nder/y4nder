@@ -106,11 +106,11 @@
         <tspan class="bar-fill" fill="#d08770" style="animation-delay: 0.90000004s">█</tspan><tspan fill="#7c6f64">░░░░░░░░░░░░░░░░░░░░░░░</tspan>
         </text>
 <text x="350" y="200" class="pct-value"><tspan class="typewriter-char" style="animation-delay: 0.90000004s">4</tspan><tspan class="typewriter-char" style="animation-delay: 0.98s">.</tspan><tspan class="typewriter-char" style="animation-delay: 1.0600001s">5</tspan><tspan class="typewriter-char" style="animation-delay: 1.14s">%</tspan></text>
-<text x="0" y="222" fill="#b48ead" font-family="monospace" font-size="11">
-        Lua
+<text x="0" y="222" fill="#a3be8c" font-family="monospace" font-size="11">
+        CSS
         </text>
 <text x="100" y="222" font-family="monospace" font-size="12">
-        <tspan class="bar-fill" fill="#b48ead" style="animation-delay: 1.0500001s">█</tspan><tspan fill="#7c6f64">░░░░░░░░░░░░░░░░░░░░░░░</tspan>
+        <tspan class="bar-fill" fill="#a3be8c" style="animation-delay: 1.0500001s">█</tspan><tspan fill="#7c6f64">░░░░░░░░░░░░░░░░░░░░░░░</tspan>
         </text>
 <text x="350" y="222" class="pct-value"><tspan class="typewriter-char" style="animation-delay: 1.0500001s">2</tspan><tspan class="typewriter-char" style="animation-delay: 1.1300001s">.</tspan><tspan class="typewriter-char" style="animation-delay: 1.21s">3</tspan><tspan class="typewriter-char" style="animation-delay: 1.2900001s">%</tspan></text>
 
