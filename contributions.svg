@@ -52,7 +52,7 @@
     <text x="20" y="35" class="mono header">- Contributions ------------------------------------</text>
 
     <text x="25" y="60" class="mono label">TOTAL</text>
-    <text x="90" y="60" class="mono total"><tspan class="typewriter-char" style="animation-delay: 0s">1</tspan><tspan class="typewriter-char" style="animation-delay: 0.08s">0</tspan><tspan class="typewriter-char" style="animation-delay: 0.16s">9</tspan><tspan class="typewriter-char" style="animation-delay: 0.24s">4</tspan></text>
+    <text x="90" y="60" class="mono total"><tspan class="typewriter-char" style="animation-delay: 0s">1</tspan><tspan class="typewriter-char" style="animation-delay: 0.08s">0</tspan><tspan class="typewriter-char" style="animation-delay: 0.16s">9</tspan><tspan class="typewriter-char" style="animation-delay: 0.24s">6</tspan></text>
 
     <text x="195" y="60" class="mono label">
         contributions this year
@@ -67,7 +67,7 @@
 
         <text x="140" y="109" class="mono bar-text" xml:space="preserve"><tspan class="bar-fill" fill="#b8bb26" style="animation-delay: 0s">⣿⣿⣿⣿</tspan><tspan class="bar-empty" fill="#7c6f64" opacity="0.5">⣀⣀⣀⣀⣀</tspan></text>
     <text x="25" y="130" class="mono label">PRS</text>
-        <text x="95" y="130" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0.15s">2</tspan><tspan class="typewriter-char" style="animation-delay: 0.23s">4</tspan><tspan class="typewriter-char" style="animation-delay: 0.31s">6</tspan></text>
+        <text x="95" y="130" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0.15s">2</tspan><tspan class="typewriter-char" style="animation-delay: 0.23s">4</tspan><tspan class="typewriter-char" style="animation-delay: 0.31s">7</tspan></text>
 
         <text x="140" y="129" class="mono bar-text" xml:space="preserve"><tspan class="bar-fill" fill="#b8bb26" style="animation-delay: 0.15s">⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan><tspan class="bar-empty" fill="#7c6f64" opacity="0.5"></tspan></text>
 
@@ -84,20 +84,20 @@
     <!-- Streak Section -->
     <text x="20" y="160" class="mono header">- Streak -------------------------------------------</text>
 
-    <text x="25" y="185" class="mono streak">○</text>
+    <text x="25" y="185" class="mono streak">●</text>
         <text x="43" y="185" class="mono label">CURRENT</text>
-        <text x="100" y="185" class="mono streak"><tspan class="typewriter-char" style="animation-delay: 0.75s">0</tspan></text>
+        <text x="100" y="185" class="mono streak"><tspan class="typewriter-char" style="animation-delay: 0.75s">2</tspan><tspan class="typewriter-char" style="animation-delay: 0.83s">9</tspan></text>
 
         <text x="125" y="185" class="mono streak"> days</text>
     <text x="210" y="185" class="mono streak">●</text>
         <text x="228" y="185" class="mono label">LONGEST</text>
-        <text x="285" y="185" class="mono streak"><tspan class="typewriter-char" style="animation-delay: 0.90000004s">2</tspan><tspan class="typewriter-char" style="animation-delay: 0.98s">7</tspan></text>
+        <text x="285" y="185" class="mono streak"><tspan class="typewriter-char" style="animation-delay: 0.90000004s">2</tspan><tspan class="typewriter-char" style="animation-delay: 0.98s">9</tspan></text>
 
         <text x="310" y="185" class="mono streak"> days</text>
 
     <!-- Streak Visualization -->
     <text x="25" y="210" class="mono label">ACTIVITY</text>
-    <text x="95" y="209" class="mono bar-text" xml:space="preserve"><tspan class="bar-fill" fill="#fb8c00" style="animation-delay: 0.6s"></tspan><tspan class="bar-empty" fill="#7c6f64" opacity="0.5">⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀</tspan></text>
+    <text x="95" y="209" class="mono bar-text" xml:space="preserve"><tspan class="bar-fill" fill="#fb8c00" style="animation-delay: 0.6s">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan><tspan class="bar-empty" fill="#7c6f64" opacity="0.5">⣀</tspan></text>
 
     <!-- Footer hint -->
     <text x="210" y="230" text-anchor="middle" class="mono hint">
