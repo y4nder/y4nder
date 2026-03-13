@@ -51,7 +51,7 @@
 
     <!-- Stats grid -->
     <text x="25" y="48" class="mono label">STARS</text>
-        <text x="105" y="48" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0s">1</tspan><tspan class="typewriter-char" style="animation-delay: 0.08s">3</tspan></text>
+        <text x="105" y="48" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0s">1</tspan><tspan class="typewriter-char" style="animation-delay: 0.08s">4</tspan></text>
 
         <text x="165" y="47" class="mono bar-text" xml:space="preserve"><tspan class="bar-fill" fill="#b8bb26" style="animation-delay: 0s"></tspan><tspan class="bar-empty" fill="#7c6f64" opacity="0.5">⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀</tspan></text>
     <text x="25" y="68" class="mono label">FORKS</text>
@@ -72,7 +72,7 @@
     <!-- Process-style info section -->
     <text x="20" y="130" class="mono header">─ Summary ------------------------------------------</text>
     <text x="25" y="150" class="mono label">total-impact:</text>
-        <text x="105" y="150" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0.75s">1</tspan><tspan class="typewriter-char" style="animation-delay: 0.83s">4</tspan></text>
+        <text x="105" y="150" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0.75s">1</tspan><tspan class="typewriter-char" style="animation-delay: 0.83s">5</tspan></text>
 
         <text x="210" y="150" class="mono label">pub-repos:</text>
         <text x="290" y="150" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0.90000004s">5</tspan><tspan class="typewriter-char" style="animation-delay: 0.98s">8</tspan></text>
