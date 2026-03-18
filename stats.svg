@@ -63,7 +63,7 @@
 
         
     <text x="25" y="108" class="mono label">FOLLOWERS</text>
-        <text x="105" y="108" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0.45000002s">3</tspan><tspan class="typewriter-char" style="animation-delay: 0.53000003s">2</tspan></text>
+        <text x="105" y="108" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0.45000002s">3</tspan><tspan class="typewriter-char" style="animation-delay: 0.53000003s">3</tspan></text>
 
         <text x="210" y="108" class="mono label">FOLLOWING</text>
         <text x="290" y="108" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0.6s">4</tspan><tspan class="typewriter-char" style="animation-delay: 0.68s">7</tspan></text>
