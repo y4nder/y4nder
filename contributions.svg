@@ -84,9 +84,9 @@
     <!-- Streak Section -->
     <text x="20" y="160" class="mono header">- Streak -------------------------------------------</text>
 
-    <text x="25" y="185" class="mono streak">◉</text>
+    <text x="25" y="185" class="mono streak">○</text>
         <text x="43" y="185" class="mono label">CURRENT</text>
-        <text x="100" y="185" class="mono streak"><tspan class="typewriter-char" style="animation-delay: 0.75s">6</tspan><tspan class="typewriter-char" style="animation-delay: 0.83s">3</tspan></text>
+        <text x="100" y="185" class="mono streak"><tspan class="typewriter-char" style="animation-delay: 0.75s">0</tspan></text>
 
         <text x="125" y="185" class="mono streak"> days</text>
     <text x="210" y="185" class="mono streak">◉</text>
@@ -97,7 +97,7 @@
 
     <!-- Streak Visualization -->
     <text x="25" y="210" class="mono label">ACTIVITY</text>
-    <text x="95" y="209" class="mono bar-text" xml:space="preserve"><tspan class="bar-fill" fill="#fb8c00" style="animation-delay: 0.6s">⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿</tspan><tspan class="bar-empty" fill="#7c6f64" opacity="0.5"></tspan></text>
+    <text x="95" y="209" class="mono bar-text" xml:space="preserve"><tspan class="bar-fill" fill="#fb8c00" style="animation-delay: 0.6s"></tspan><tspan class="bar-empty" fill="#7c6f64" opacity="0.5">⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀</tspan></text>
 
     <!-- Footer hint -->
     <text x="210" y="230" text-anchor="middle" class="mono hint">
