@@ -64,18 +64,18 @@
         <tspan class="bar-fill" fill="#81a1c1" style="animation-delay: 0s">██████████</tspan><tspan fill="#7c6f64">░░░░░░░░░░░░░░</tspan>
         </text>
 <text x="350" y="68" class="pct-value"><tspan class="typewriter-char" style="animation-delay: 0s">4</tspan><tspan class="typewriter-char" style="animation-delay: 0.08s">3</tspan><tspan class="typewriter-char" style="animation-delay: 0.16s">.</tspan><tspan class="typewriter-char" style="animation-delay: 0.24s">2</tspan><tspan class="typewriter-char" style="animation-delay: 0.32s">%</tspan></text>
-<text x="0" y="90" fill="#5e81ac" font-family="monospace" font-size="11">
-        C#
-        </text>
-<text x="100" y="90" font-family="monospace" font-size="12">
-        <tspan class="bar-fill" fill="#5e81ac" style="animation-delay: 0.15s">███</tspan><tspan fill="#7c6f64">░░░░░░░░░░░░░░░░░░░░░</tspan>
-        </text>
-<text x="350" y="90" class="pct-value"><tspan class="typewriter-char" style="animation-delay: 0.15s">1</tspan><tspan class="typewriter-char" style="animation-delay: 0.23s">3</tspan><tspan class="typewriter-char" style="animation-delay: 0.31s">.</tspan><tspan class="typewriter-char" style="animation-delay: 0.39s">6</tspan><tspan class="typewriter-char" style="animation-delay: 0.47s">%</tspan></text>
-<text x="0" y="112" fill="#ebcb8b" font-family="monospace" font-size="11">
+<text x="0" y="90" fill="#ebcb8b" font-family="monospace" font-size="11">
         TypeScript
         </text>
+<text x="100" y="90" font-family="monospace" font-size="12">
+        <tspan class="bar-fill" fill="#ebcb8b" style="animation-delay: 0.15s">███</tspan><tspan fill="#7c6f64">░░░░░░░░░░░░░░░░░░░░░</tspan>
+        </text>
+<text x="350" y="90" class="pct-value"><tspan class="typewriter-char" style="animation-delay: 0.15s">1</tspan><tspan class="typewriter-char" style="animation-delay: 0.23s">3</tspan><tspan class="typewriter-char" style="animation-delay: 0.31s">.</tspan><tspan class="typewriter-char" style="animation-delay: 0.39s">6</tspan><tspan class="typewriter-char" style="animation-delay: 0.47s">%</tspan></text>
+<text x="0" y="112" fill="#5e81ac" font-family="monospace" font-size="11">
+        C#
+        </text>
 <text x="100" y="112" font-family="monospace" font-size="12">
-        <tspan class="bar-fill" fill="#ebcb8b" style="animation-delay: 0.3s">███</tspan><tspan fill="#7c6f64">░░░░░░░░░░░░░░░░░░░░░</tspan>
+        <tspan class="bar-fill" fill="#5e81ac" style="animation-delay: 0.3s">███</tspan><tspan fill="#7c6f64">░░░░░░░░░░░░░░░░░░░░░</tspan>
         </text>
 <text x="350" y="112" class="pct-value"><tspan class="typewriter-char" style="animation-delay: 0.3s">1</tspan><tspan class="typewriter-char" style="animation-delay: 0.38s">3</tspan><tspan class="typewriter-char" style="animation-delay: 0.46s">.</tspan><tspan class="typewriter-char" style="animation-delay: 0.54s">6</tspan><tspan class="typewriter-char" style="animation-delay: 0.62s">%</tspan></text>
 <text x="0" y="134" fill="#88c0d0" font-family="monospace" font-size="11">
@@ -92,18 +92,18 @@
         <tspan class="bar-fill" fill="#d08770" style="animation-delay: 0.6s">██</tspan><tspan fill="#7c6f64">░░░░░░░░░░░░░░░░░░░░░░</tspan>
         </text>
 <text x="350" y="156" class="pct-value"><tspan class="typewriter-char" style="animation-delay: 0.6s">6</tspan><tspan class="typewriter-char" style="animation-delay: 0.68s">.</tspan><tspan class="typewriter-char" style="animation-delay: 0.76s">8</tspan><tspan class="typewriter-char" style="animation-delay: 0.84000003s">%</tspan></text>
-<text x="0" y="178" fill="#ebcb8b" font-family="monospace" font-size="11">
-        JavaScript
-        </text>
-<text x="100" y="178" font-family="monospace" font-size="12">
-        <tspan class="bar-fill" fill="#ebcb8b" style="animation-delay: 0.75s">█</tspan><tspan fill="#7c6f64">░░░░░░░░░░░░░░░░░░░░░░░</tspan>
-        </text>
-<text x="350" y="178" class="pct-value"><tspan class="typewriter-char" style="animation-delay: 0.75s">4</tspan><tspan class="typewriter-char" style="animation-delay: 0.83s">.</tspan><tspan class="typewriter-char" style="animation-delay: 0.90999997s">5</tspan><tspan class="typewriter-char" style="animation-delay: 0.99s">%</tspan></text>
-<text x="0" y="200" fill="#d08770" font-family="monospace" font-size="11">
+<text x="0" y="178" fill="#d08770" font-family="monospace" font-size="11">
         C
         </text>
+<text x="100" y="178" font-family="monospace" font-size="12">
+        <tspan class="bar-fill" fill="#d08770" style="animation-delay: 0.75s">█</tspan><tspan fill="#7c6f64">░░░░░░░░░░░░░░░░░░░░░░░</tspan>
+        </text>
+<text x="350" y="178" class="pct-value"><tspan class="typewriter-char" style="animation-delay: 0.75s">4</tspan><tspan class="typewriter-char" style="animation-delay: 0.83s">.</tspan><tspan class="typewriter-char" style="animation-delay: 0.90999997s">5</tspan><tspan class="typewriter-char" style="animation-delay: 0.99s">%</tspan></text>
+<text x="0" y="200" fill="#ebcb8b" font-family="monospace" font-size="11">
+        JavaScript
+        </text>
 <text x="100" y="200" font-family="monospace" font-size="12">
-        <tspan class="bar-fill" fill="#d08770" style="animation-delay: 0.90000004s">█</tspan><tspan fill="#7c6f64">░░░░░░░░░░░░░░░░░░░░░░░</tspan>
+        <tspan class="bar-fill" fill="#ebcb8b" style="animation-delay: 0.90000004s">█</tspan><tspan fill="#7c6f64">░░░░░░░░░░░░░░░░░░░░░░░</tspan>
         </text>
 <text x="350" y="200" class="pct-value"><tspan class="typewriter-char" style="animation-delay: 0.90000004s">4</tspan><tspan class="typewriter-char" style="animation-delay: 0.98s">.</tspan><tspan class="typewriter-char" style="animation-delay: 1.0600001s">5</tspan><tspan class="typewriter-char" style="animation-delay: 1.14s">%</tspan></text>
 <text x="0" y="222" fill="#b48ead" font-family="monospace" font-size="11">
