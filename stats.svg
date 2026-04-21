@@ -59,7 +59,7 @@
 
         <text x="165" y="67" class="mono bar-text" xml:space="preserve"><tspan class="bar-fill" fill="#b8bb26" style="animation-delay: 0.15s"></tspan><tspan class="bar-empty" fill="#7c6f64" opacity="0.5">⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀</tspan></text>
     <text x="25" y="88" class="mono label">REPOS</text>
-        <text x="105" y="88" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0.3s">5</tspan><tspan class="typewriter-char" style="animation-delay: 0.38s">8</tspan></text>
+        <text x="105" y="88" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0.3s">5</tspan><tspan class="typewriter-char" style="animation-delay: 0.38s">9</tspan></text>
 
         
     <text x="25" y="108" class="mono label">FOLLOWERS</text>
@@ -75,7 +75,7 @@
         <text x="105" y="150" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0.75s">1</tspan><tspan class="typewriter-char" style="animation-delay: 0.83s">5</tspan></text>
 
         <text x="210" y="150" class="mono label">pub-repos:</text>
-        <text x="290" y="150" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0.90000004s">5</tspan><tspan class="typewriter-char" style="animation-delay: 0.98s">8</tspan></text>
+        <text x="290" y="150" class="mono value"><tspan class="typewriter-char" style="animation-delay: 0.90000004s">5</tspan><tspan class="typewriter-char" style="animation-delay: 0.98s">9</tspan></text>
 
 
     <!-- Footer hint -->
